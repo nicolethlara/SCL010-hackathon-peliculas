@@ -6,8 +6,8 @@
 * [Presentación de la página web](#POPMOVIES)
 * [Investigación de Usuario](#cinvestigación-de-usuario)
 * [Historias de Usuario](#Historias-de-Usuario)
-* [Entrevistas a potenciales usuarios](#Entrevistas-a-potenciales-usuarios)
-* [Consideraciones técnicas](#consideraciones-técnicas)
+* [Referencias visuales](#Referencias-visuales)
+* [Guía de estilos](#Guía-de-estilos)
 
  ***
 
@@ -59,38 +59,23 @@ De un muestreo total de 29 usuarios un 34,5% considera las premiaciones de las p
   PARA: Poder escoger que película ver
   
 
- ## **Entrevistas a potenciales usuarios**
+ ## **Referencias visuales**
 
- * Todo el planeamiento del trabajo deberá ser detallado en un repositorio único
-por _squad_ en el que se presente el _planning_, el _research_, los _sketches_
-y las inspiraciones utilizadas para definir el producto.
-* Además, deberás detallar en el archivo _readme_, qué hizo cada una en el
-proyecto.
-* El producto deberá presentarse publicado en github pages.
+ ![referencia-uno](img/referencia-1.jpeg)
 
- ## **Consideraciones técnicas**
+ ![referencia-dos](img/referencia-2.jpeg)
 
- * El diseño visual de los componentes es de libre elección de las estudiantes,
-sin embargo, si no quieren crearlo desde cero, pueden utilizar el que
-propuso [Walmart](https://drive.google.com/file/d/0B6GBtl-gO6LwaVprQkFqTGI2a28/view).
-* Deberán usar al menos un framework de css.
-## **Reglas de las presentaciones:**
+ ![referencia-tres](img/referencia-3.jpeg)
 
-* Cada squad tendrá 5 minutos para presentar su demo y 5 minutos para recibir preguntas.
+ 
+## **Guía de estilos**
 
-* Las personas que presentan en la primera presentación no deben ser las mismas de la presentación fin
+**Paleta de colores**
 
-## **Horario**
+![paleta-de-colores](img/paleta-de-colores.png)
 
-|       |   Lunes           |  Martes                      |Miércoles                      | Jueves                                |
-|------ | ------------------| ---------------------------- | ----------------------------- | ------------------------------------- |
-| 8:00  |  Kick off hackaton|  Daily por squad             |  Daily por squad              | Daily por squad                       |
-| 9:00  |  Sesión de planificación|  Hackeo                |  Hackeo                       | Hackeo/Detalles finales               |         
-| 10:00 |  Hackeo|          |  Compartir link de aplicación|                               | Inscripción de aplicaciones           |
-| 11:00 |                   |  Presentación y Feedback     |                               | Feria de demostraciones               |           
-| 12:00 |                   |                              |                               | Presentación de mejores squads        |
-|>13:00 |                   |                              |                               | Deliberación del jurado               |
-| 20:00 |                   |                              |                               |                                       |
+
+## **Entrevistas con potenciales usuarios**
 
 ## **Tips para la organización de trabajo entre UX y Front end**
 

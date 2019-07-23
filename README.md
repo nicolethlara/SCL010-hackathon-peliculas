@@ -3,10 +3,10 @@
  ## Índice
 
 * [Preámbulo](#preámbulo)
-* [Resumen del proyecto](#resumen-del-proyecto)
-* [Consideraciones generales](#consideraciones-generales)
-* [Objetivos de aprendizaje](#objetivos-de-aprendizaje)
-* [Parte obligatoria](#parte-obligatoria)
+* [Presentación de la página web](#POPMOVIES)
+* [Investigación de Usuario](#cinvestigación-de-usuario)
+* [Historias de Usuario](#Historias-de-Usuario)
+* [Entrevistas a potenciales usuarios](#Entrevistas-a-potenciales-usuarios)
 * [Consideraciones técnicas](#consideraciones-técnicas)
 
  ***
@@ -20,31 +20,46 @@ canchita / cabritas), parando si es necesario, teniendo acceso a una cantidad
 abrumadora de películas... ha cambiado la experiencia del usuario
 y modificado el mercado de las películas a nivel global.
 
- ![Pelis](https://media.giphy.com/media/NipFetnQOuKhW/giphy.gif)
 
- ## **Resumen del proyecto**
+ ## **POPMOVIES**
 
- Durante estos días crearás el producto que tú quieras alrededor del mundo
-de las películas. Puede ser un sitio que hable de las mejores películas
-latinoamericanas, uno que recomiende las películas recién estrenadas en Netflix,
-uno de pelis de terror... o... ¡lo que quieras!
+ ![explain](https://media.giphy.com/media/nuuS1IlKqd2dq/giphy.gif)
 
- ## **Consideraciones generales**
+Pensando en las crecientes necesidades de los usuarios que consumen películas regularmente, hemos creado POPMOVIES, una página web que permite filtrar las películas según los premios que estas han recibido. Esta dirigida a un usuario 
 
- * Este proyecto se debe resolver en equipos de hasta 4 personas.
-* Usa la API de [OMDB](http://www.omdbapi.com/) (The Open Movie Database).
-* Tiempo para completar el reto: 4 días.
+ ## **Investigación de usuario**
+
+* Como un primer acercamiento para conocer al usuario realizamos una encuesta con un muestreo de 30 personas.
+ 
+[Encuesta](https://docs.google.com/forms/d/e/1FAIpQLSe2d9NFO8auWaLvLg-drgCDPLfH6nzCC7Dk51G0cgnDNekDxg/viewform?usp=sf_link)
+
+**Análisis encuesta**
+
+De un muestreo total de 29 usuarios un 34,5% considera las premiaciones de las películas para decidir si verlas o no, este es el usuario al que apuntaremos como público objetivo de nuestra página web. Decidimos también que nuestros filtros de premiaciones se basaran en las categorías  de los Oscars, ya que fueron los más votados con un 75,9% por sobre otros galardones como los BAFTA, Golden globes, SAG y Goya. La categoría más votada como relevante en cuanto a las premiaciones fue el premio a mejor película, con un 48,3%, por lo tanto este será nuestro filtro disponible para los usuarios de la plataforma
+
+![grafico-uno](img/grafico-1.jpeg)
+
+![grafico-dos](img/grafico-2.jpeg)
+
+![grafico-tres](img/grafico-3.jpeg)
 
 
- ## **Objetivos de aprendizaje**
+ ## **Historias de usuario**
 
- * Enfrentarte a un reto de corta duración en el que pongas en práctica todo
-lo aprendido hasta ahora.
-* Que sigas desarrollando tus habilidades de trabajo en equipo. Mientras más
-personas en un equipo de trabajo, mayor complejidad para: tener un entendimiento
-común, seguir el flujo de trabajo, buscar consensos, etc.
+ * COMO: Amante del cine y conocedor
+   QUIERO: Conocer los estrenos más recientes de las películas que han sido premiadas
+   PARA: Poder escoger que película ver
 
- ## **Parte Obligatoria**
+ * COMO: Entusiasta del cine y consumidor asiduo de películas
+   QUIERO: Buscar películas específicas para conocer los premios que ha ganado
+   PARA: Poder escoger que película ver
+
+* COMO: Consumidor de cine y amante de la música
+  QUIERO: Poder filtrar las películas que han sido premiadas por año
+  PARA: Poder escoger que película ver
+  
+
+ ## **Entrevistas a potenciales usuarios**
 
  * Todo el planeamiento del trabajo deberá ser detallado en un repositorio único
 por _squad_ en el que se presente el _planning_, el _research_, los _sketches_
